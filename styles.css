@@ -6,9 +6,17 @@ body {
 
   h1{ 
     color: chartreuse;
-    font-family: 'Righteous', cursive;
+    font-family: 'Righteous';
+    text-shadow: 7px 7px black;
   }
  
+  .jumbotron {
+    background-image: url("images/background.png");
+    color:chartreuse;
+   
+
+
+}
   
  
   
