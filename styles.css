@@ -10,13 +10,29 @@ body {
     text-shadow: 7px 7px black;
   }
  
+
+  .Jimbo {
+  display: inline-block;  
+
+  }
+
+
   .jumbotron {
     background-image: url("images/background.png");
     color:chartreuse;
-   
-
+    width: 65%;
+    margin: 1%;
+    margin-top: 3%;
 
 }
   
+img {
+  margin: 3%;
+  position: relative;
+  bottom: 20em;
+  left: 35em;
+ 
+}
+
  
   
